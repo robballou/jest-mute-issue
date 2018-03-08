@@ -1,6 +1,6 @@
 # Jest and mute
 
-Debugging an issue with (jest)[https://github.com/facebook/jest] and (mute)[https://github.com/shannonmoeller/mute].
+Debugging an issue with [jest](https://github.com/facebook/jest) and [mute](https://github.com/shannonmoeller/mute).
 
 If you run suite1 specifically, it will mute the console logs. If you run all tests, it will not. The jest option `--silent` will work, but mutes _all_ output, even if it's output you would want to see.
 
